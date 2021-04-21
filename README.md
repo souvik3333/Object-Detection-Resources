@@ -3,4 +3,4 @@ Resources for Object detection and Recognition
 
 ## Easy:
 - [Object Detection for Dummies (Part 1)](https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html)
-  - Image Gradient Vector, Image Processing Kernels, Histogram of Oriented Gradients, Felzenszwalb’s Algorithm,
+  - Image Gradient Vector, Image Processing Kernels, [Histogram of Oriented Gradients](https://www.youtube.com/watch?v=4ESLTAd3IOM), Felzenszwalb’s Algorithm,
